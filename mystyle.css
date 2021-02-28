@@ -1,0 +1,15 @@
+body {
+    color: brown;
+    align-items: right;
+}
+
+.table {
+    background-color: burlywood;
+    align-content: flex-start;
+}
+
+.table2 {
+    background-color: darkcyan;
+    align-content: flex-start;
+    color: white;
+}
